@@ -15,6 +15,7 @@
 </ul>
 
 <h3>Email Service</h3>
+<p>Email Service is maildev</p>
 <p>You can get info in <a href="https://www.npmjs.com/package/maildev">here</p>
 
 <h3>Additional Configs are given in application.yml and SecurityConfig.java files</h3>
